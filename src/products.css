@@ -1,0 +1,22 @@
+li{
+    border: 1px solid white;
+    list-style: none;
+    font-size: 10px;
+    max-width: 300px !important;
+    height: 400px;
+
+    text-align: center;
+}
+.firs__img{
+    min-width: 200px;
+    height: 200px;
+}
+ul{
+    gap: 30px ;
+    display: flex;
+    flex-wrap: wrap;
+}
+h2{
+    width: 200px;
+    height: 100px;
+}
